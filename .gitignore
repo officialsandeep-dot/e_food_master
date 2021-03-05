@@ -1,0 +1,10 @@
+#virtual environment
+venv/
+instance/*
+!instance/.gitignore
+.webassets-cache
+#Django
+#Byte-compiled / optimized / dll files
+__pycache__/
+* .py[cod]
+* $py.class
